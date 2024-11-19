@@ -1,9 +1,9 @@
-![MasterHead](https://imgur.com/9h2alx9)]
+![MasterHead](https://imgur.com/9h2alx9.png)]
 [View my website](https://kamau.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Kamau</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coder" src="https://github.com/rudrabarad/Gifs" width="500" height="320" />
+<h3 align="center">A passionate Full-Stack developer from Nairobi, Kenya</h3>
+<img align="right" alt="Coder" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVlODYyMnI3M3VncW00OGtvcHkwdjMybW16bzgweWd3cXo1eXBtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" width="500" height="320" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nainah23&label=Profile%20views&color=0e75b6&style=flat" alt="nainah23" />
